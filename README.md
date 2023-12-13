@@ -1,6 +1,6 @@
 # Crypto Currency
 
-## ➡️ [Live Demo]()
+## ➡️ [Live Demo](https://form-builder-six-rho.vercel.app/)
 
 ## :computer: Setup
 
@@ -29,3 +29,6 @@ yarn start
 :heavy_check_mark: [Styled Components](https://styled-components.com) <br />
 
 ## Screenshot
+
+![home](https://github.com/NecatiCoskuncopur/form-builder/assets/85507269/d7255a1b-218e-442e-bbed-395e4a50f9c5)
+![edit](https://github.com/NecatiCoskuncopur/form-builder/assets/85507269/907f8969-9b36-4c28-8999-c694303d4ea8)
